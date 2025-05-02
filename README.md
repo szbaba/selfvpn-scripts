@@ -12,7 +12,10 @@ After connecting to your VM via SSH, run:
 
 sh
 CopyInsert
+
 curl -sS https://raw.githubusercontent.com/szbaba/selfvpn-scripts/main/install_outline.sh | sudo bash
+
+
 Once the installation is complete, the Outline admin access key and port information will be displayed.
 
 Customization
@@ -43,7 +46,10 @@ SSH ile VM’ye bağlandıktan sonra:
 
 sh
 CopyInsert
+
 curl -sS https://raw.githubusercontent.com/szbaba/selfvpn-scripts/main/install_outline.sh | sudo bash
+
+
 Kurulum tamamlandığında, Outline yönetici bağlantı anahtarı ve port bilgileri ekrana yazdırılır.
 
 Özelleştirme
